@@ -5,8 +5,8 @@
     src: local('SEGA LOGO FONT'), url('SEGA.TTF') format('woff');
 }
 
-h1 {
+input {
     font-family: 'SEGA LOGO FONT';
-    font-weight: 200;
-    color: #0ccac4;
+    color: rebeccapurple;
+    text-align: center;
 }
