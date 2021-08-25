@@ -1,4 +1,4 @@
-.scrollBox {
-    overflow: scroll;
+.scroll {
+    overflow-x: scroll;
     height: 800px;
 }
